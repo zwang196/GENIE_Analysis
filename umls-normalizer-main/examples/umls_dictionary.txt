@@ -1,0 +1,8 @@
+C0011849||diabetes mellitus||Disease or Syndrome
+C0020538||hypertensive disease||Disease or Syndrome
+C0027051||myocardial infarction||Disease or Syndrome
+C0022660||kidney failure||Disease or Syndrome
+C0004057||aspirin||Pharmacologic Substance
+C0043537||acetaminophen||Pharmacologic Substance
+C0007131||non-small cell lung cancer||Neoplastic Process
+C0024117||chronic obstructive pulmonary disease||Disease or Syndrome

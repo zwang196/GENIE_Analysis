@@ -1,0 +1,7 @@
+transformers>=4.42.0
+torch>=2.1.0
+# Default to CPU FAISS (GPU wheels not available for Py3.12). To use GPU FAISS, install a matching wheel/build and pass --no-faiss-gpu accordingly.
+faiss-cpu>=1.13.0,<1.14.0
+pandas>=2.1.0
+numpy>=1.24.0,<2.0.0
+tqdm>=4.66.0
